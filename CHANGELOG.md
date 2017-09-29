@@ -1,5 +1,12 @@
 # Change Log
 
+## [v3.0.1](https://github.com/Travix-International/frint-preset-travix/tree/v3.0.1) (2017-09-29)
+[Full Changelog](https://github.com/Travix-International/frint-preset-travix/compare/v2.8.1...v3.0.1)
+
+**Merged pull requests:**
+
+- Upgrade FrintJS to v3.0.1 [\#8](https://github.com/Travix-International/frint-preset-travix/pull/8) ([fahad19](https://github.com/fahad19))
+
 ## [v2.8.1](https://github.com/Travix-International/frint-preset-travix/tree/v2.8.1) (2017-09-28)
 [Full Changelog](https://github.com/Travix-International/frint-preset-travix/compare/v2.3.0...v2.8.1)
 
