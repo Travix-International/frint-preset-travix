@@ -20,15 +20,15 @@
     "frint-preset"
   ],
   "dependencies": {
-    "frint": "5.1.0",
-    "frint-config": "5.1.0",
-    "frint-data": "5.1.0",
-    "frint-model": "5.1.0",
-    "frint-react": "5.1.0",
-    "frint-react-server": "5.1.0",
-    "frint-router": "5.1.0",
-    "frint-router-react": "5.1.0",
-    "frint-store": "5.1.0"
+    "frint": "5.1.1",
+    "frint-config": "5.1.1",
+    "frint-data": "5.1.1",
+    "frint-model": "5.1.1",
+    "frint-react": "5.1.1",
+    "frint-react-server": "5.1.1",
+    "frint-router": "5.1.1",
+    "frint-router-react": "5.1.1",
+    "frint-store": "5.1.1"
   },
   "bugs": {
     "url": "https://github.com/Travix-International/frint-preset-travix/issues"
