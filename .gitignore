@@ -2,6 +2,7 @@ node_modules
 npm-debug.log
 lerna-debug.log
 yarn.lock
+package-lock.json
 lib
 .changelog/
 
@@ -86,26 +87,8 @@ GitHub.sublime-settings
 ### WebStorm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
-
-# User-specific stuff:
-.idea/workspace.xml
-.idea/tasks.xml
-
-# Sensitive or high-churn files:
-.idea/dataSources/
-.idea/dataSources.ids
-.idea/dataSources.xml
-.idea/dataSources.local.xml
-.idea/sqlDataSources.xml
-.idea/dynamic.xml
-.idea/uiDesigner.xml
-
-# Gradle:
-.idea/gradle.xml
-.idea/libraries
-
-# Mongo Explorer plugin:
-.idea/mongoSettings.xml
+# All files under .idea are workspace/user-specific
+.idea/**
 
 ## File-based project format:
 *.iws
