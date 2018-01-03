@@ -1,5 +1,12 @@
 # Change Log
 
+## [v5.2.1](https://github.com/Travix-International/frint-preset-travix/tree/v5.2.1) (2018-01-03)
+[Full Changelog](https://github.com/Travix-International/frint-preset-travix/compare/v5.2.0...v5.2.1)
+
+**Merged pull requests:**
+
+- Upgrade to FrintJS v5.2.1 [\#15](https://github.com/Travix-International/frint-preset-travix/pull/15) ([fahad19](https://github.com/fahad19))
+
 ## [v5.2.0](https://github.com/Travix-International/frint-preset-travix/tree/v5.2.0) (2018-01-02)
 [Full Changelog](https://github.com/Travix-International/frint-preset-travix/compare/v5.1.1...v5.2.0)
 
