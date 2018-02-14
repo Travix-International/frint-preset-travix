@@ -1,5 +1,12 @@
 # Change Log
 
+## [v5.3.0](https://github.com/Travix-International/frint-preset-travix/tree/v5.3.0) (2018-02-14)
+[Full Changelog](https://github.com/Travix-International/frint-preset-travix/compare/v5.2.1...v5.3.0)
+
+**Merged pull requests:**
+
+- Added frint-props [\#16](https://github.com/Travix-International/frint-preset-travix/pull/16) ([fahad19](https://github.com/fahad19))
+
 ## [v5.2.1](https://github.com/Travix-International/frint-preset-travix/tree/v5.2.1) (2018-01-03)
 [Full Changelog](https://github.com/Travix-International/frint-preset-travix/compare/v5.2.0...v5.2.1)
 
