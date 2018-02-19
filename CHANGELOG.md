@@ -1,5 +1,12 @@
 # Change Log
 
+## [v5.4.0](https://github.com/Travix-International/frint-preset-travix/tree/v5.4.0) (2018-02-19)
+[Full Changelog](https://github.com/Travix-International/frint-preset-travix/compare/v5.3.1...v5.4.0)
+
+**Merged pull requests:**
+
+- Update frint-props and frint-props-react to v0.2.0 [\#18](https://github.com/Travix-International/frint-preset-travix/pull/18) ([leandrooriente](https://github.com/leandrooriente))
+
 ## [v5.3.1](https://github.com/Travix-International/frint-preset-travix/tree/v5.3.1) (2018-02-16)
 [Full Changelog](https://github.com/Travix-International/frint-preset-travix/compare/v5.3.0...v5.3.1)
 
