@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "frint": "5.2.1",
-    "frint-config": "5.2.1",
+    "frint-config": "5.7.2",
     "frint-data": "5.2.1",
     "frint-model": "5.2.1",
     "frint-props": "0.2.0",
